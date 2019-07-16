@@ -1,0 +1,5 @@
+baseURL = "https://example.edu"
+languageCode = "en-us"
+title = "BetMates"
+theme = "avicenna"
+googleAnalytics = "UA-1234-6"

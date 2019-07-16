@@ -1,0 +1,12 @@
+[submodule "themes/kross"]
+	path = themes/kross
+	url = https://github.com/themefisher/kross-hugo-portfolio-template.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "arabica"]
+	path = arabica
+	url = https://github.com/nirocfz/arabica
+[submodule "themes/arabica"]
+	path = themes/arabica
+	url = https://github.com/nirocfz/arabica
